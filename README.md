@@ -13,3 +13,14 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+
+### Step 3 - To download the dataset
+
+```b>wget
+https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training _set1.csv
+```
+
+
+
+This file is edited by Shakti Jain
